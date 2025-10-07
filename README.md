@@ -4,6 +4,13 @@ This repository contains a summarized compilation of the **review pages** from *
 
 ---
 
+## ⬇️ Access the Full Document
+
+You can view or download the complete PDF file here:
+[**fcc-review-pages.pdf**](https://cdn.nhcarrigan.com/fcc-review-pages.pdf)
+
+---
+
 ## 👤 Document Compiler & Author
 
 This PDF document, a compilation of the review pages from freeCodeCamp's curriculum, was created by **Naomi**.
