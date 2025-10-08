@@ -23,7 +23,7 @@ This PDF document, a compilation of the review pages from freeCodeCamp's curricu
 
 This is **not an officially sanctioned document** from freeCodeCamp, and I make **no warranty** that the information in this document will be kept up to date.
 
-This version was created on **7 October 2025**.
+This version was created on **7 October 2025**. 
 
 ---
 
